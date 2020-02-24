@@ -1,1 +1,3 @@
-# rumating
+# RUmating
+
+Rutgers Roomate Tinder
