@@ -1,3 +1,3 @@
 # RUmating
 
-Rutgers Roomate Tinder
+Rutgers Roommate Tinder
